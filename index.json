@@ -1,13 +1,13 @@
 {
   "urls": [
     {
-    "url":"https://raw.githubusercontent.com/zzq12345/pg/main/jsm.json",
-    "name":"pg大佬"
+    "url": "https://raw.githubusercontent.com/zzq12345/pg/main/jsm.json",
+    "name": "pg大佬"
     },
     
     {
-      "url":"https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/jsm.json",
-      "name":"适合境外"
+      "url": "https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/jsm.json",
+      "name": "适合境外"
     },
     {
       "url": "./0821.json",
