@@ -8,6 +8,32 @@
     "url":  "https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/feimao.json",
    "name": "肥猫"
    },
+   {
+    "url":  "https://肥猫.com",
+     "name": "肥猫接口1"
+   },
+    
+    {
+    "url":  "https://like.肥猫.com/PandaQ",
+     "name": "肥猫接口2"
+     },
+    {
+    "url":  "http://www.饭太硬.com/tv",
+"name": "饭太硬接口"
+   },
+ {
+    "url": "http://www.mpanso.com/小米/DEMO.json",
+  "name": "小米接口"
+   },
+   {
+    "url":  "http://bp.tvbox.cam",
+     "name": "白嫖接口"
+   },
+   {
+    "url":  "http://itvbox.cc/云星日记",
+    "name": "  云星接口"
+   },
+    
  {
       "url": "https://raw.githubusercontent.com/zzq12345/jiemuyuan/main/jsm.json",
       "name": "适合境外"
