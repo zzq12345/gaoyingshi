@@ -1,13 +1,22 @@
 {
   "urls": [
     
-          {"name": "飘云", "url": "https://api.paoyun.eu.org/zq/paoyun.json"},
-          {"name": "2游魂收集不分排名", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/2游魂收集不分排名.txt"},
-          {"name": "D佬", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/D佬.txt"},
-          {"name": "OK", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/OK.txt"},
-          {"name": "PG", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/PG.txt"},
-          {"name": "云星日记", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/云星日记.txt"},
-          {"name": "俊佬", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/俊佬.txt"},
+          {
+            "url": "https://api.paoyun.eu.org/zq/paoyun.json",
+            "name": "飘云"
+          },
+          {
+            "name": "2游魂收集不分排名", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/2游魂收集不分排名.txt"},
+          {
+            "name": "D佬", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/D佬.txt"},
+          {
+            "name": "OK", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/OK.txt"},
+          {
+            "name": "PG", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/PG.txt"},
+          {
+            "name": "云星日记", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/云星日记.txt"},
+          {
+            "name": "俊佬", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/俊佬.txt"},
           {"name": "南风", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/南风.txt"},
           {"name": "吾爱", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/吾爱.txt"},
           {"name": "天天开心", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/天天开心.txt"},
@@ -28,8 +37,9 @@
           {"name": "香雅情", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/香雅情.txt"},
     
   {
+
     "url": "https://raw.githubusercontent.com/zzq12345/pg/main/jsm.json",
-    "name": "pg大佬"
+        "name": "pg大佬"
     },
 
 {
