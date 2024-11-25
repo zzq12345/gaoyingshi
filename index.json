@@ -1,10 +1,7 @@
 {
   "urls": [
    
-          {
-            "url": "https://api.paoyun.eu.org/zq/paoyun.json",
-            "name": "飘云"
-          },
+          
           {
             "name": "2游魂收集不分排名",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/2游魂收集不分排名.txt"
