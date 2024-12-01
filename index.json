@@ -1,11 +1,25 @@
 {
   "urls": [
-   
-          
+   {
+            "name": "饭太硬1",
+            "url": "http://www.饭太硬.com/tv"
+     },
           {
-            "name": "2游魂收集不分排名",
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/2游魂收集不分排名.txt"
+            "name": "饭太硬2",
+            "url":"http://fty.xxooo.cf/tv"
+            
           },
+          {
+            "name": "饭太硬3",
+            "url": "http://fty.888484.xyz/tv"
+            
+          },
+          {
+            "name": "饭太硬4",
+            "url": "http://fty.333232.xyz/tv"
+    
+          },
+          
           {
             "name": "D佬",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/D佬.txt"
@@ -72,7 +86,7 @@
     "name": "饭太硬接口"
     },
     {
-    "url": "http://www.mpanso.com/小米/DEMO.json",
+    "url":  "http://www.mpanso.com/小米/DEMO.json",
     "name": "小米接口"
      },
      {
