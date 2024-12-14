@@ -30,7 +30,13 @@
             "name": "没事",
             "url": "http://linux.goip.de/web/viu/test/tvbox.json"
 },
-          {
+         
+   {
+            "name": "没事备用",
+            "url": " http://z.yuer.cool/tvbox/t.json"
+},
+    
+    {
             "name": "D佬",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/ol/main/D佬.txt"
           },
