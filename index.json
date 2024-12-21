@@ -1,5 +1,10 @@
 {
   "urls": [
+{
+            "name": "米家互联",
+            "url": "https://tv.mpanso.me/DEMO.json"
+     },
+    
    {
             "name": "饭太硬1",
             "url": "http://www.饭太硬.com/tv"
